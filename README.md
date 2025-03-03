@@ -1,3 +1,3 @@
 # JavaScript
 JavaScript Projects<br>
-Author : Pawan
+Author : Pawan K Verma
